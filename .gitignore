@@ -191,3 +191,5 @@ poetry.toml
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
 data.db
+config.py
+.DS_Store
